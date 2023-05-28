@@ -1,4 +1,9 @@
 # Kool-AI-Chess
+
+Live Link
+
+GitHub Repository
+
 Kool AI Chess - A Chess program written in Python - User vs Computer
 
 For my Code Institute Portfolio Project 3, 
@@ -12,13 +17,15 @@ available [here](http://www.petesqbsite.com/sections/express/issue23/Tut_QB_Ches
 I found it amazing how Mr Denezes has written such an highly interesting chess playing program in under 500 lines.
 My goal then is to convert it to Python and add ***castling and en passant*** chess moves to it so that the user can play a complete game of Chess against their Computer opponent, namely, ***Kool A.I.***
 
-## Design
+## UX
 
-### Logic Flow of the program
+### Design
+
+#### Logic Flow of the program
 
 ![Flowchart](https://github.com/DelroyGayle/Kool-AI-Chess/assets/91061592/218a8f5e-38ef-4fba-bf27-4c577cfb9e83)
 
-### A Mock-up of how the game will look like
+#### A Mock-up of how the game will look like
 
 The game begins with this view
 
@@ -32,19 +39,27 @@ Then the computer may respond with **e7e5**
 
 ![image](https://github.com/DelroyGayle/Kool-AI-Chess/assets/91061592/0aa858fb-a6d4-43c0-a15e-f9e5d03fea16)
 
+### Target Audience
+
+### User Stories
+
+------
+
 ## Features
+
+------
 
 ## Testing
 
 * I tested that the pages work in Chrome
 
+## Code Validation
+
 ## Bugs
 
 ### Solved Bugs
 
-## Testing
-
-## Unfixed Bugs
+### Unfixed Bugs
 
 No unfixed bugs
 
@@ -52,13 +67,13 @@ No unfixed bugs
 
 ## Deployment
 
-## Technologies
+## Technologies Used
 
-### Languages used:
+### Languages Used
 
 * Python
 
-### Other tools:
+### Other tools
 
 * GitHub - for hosting the site
 * Gitpod - for editing the files
@@ -69,9 +84,11 @@ No unfixed bugs
 
 ## Future Features
 
-## Credits
+## Deployment
+
+------
+
+## Credits/Acknowledgements
 
 I would like to acknowledge Don Menezes, the author of the BASIC program on which my project is based.
-I would like to acknowledge Rod Bird who also adopted Menezes' code. I preferred how Bird's display of the Chess Board.
-
-### Acknowledgements
+I would like to acknowledge Rod Bird who also adopted Menezes' code. I preferred Bird's display of the Chess Board.
